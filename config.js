@@ -53,8 +53,8 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
+			name: 'Manim',
+			icon: 'code',
 			link: 'https://github.com/',
 		},
 		{
