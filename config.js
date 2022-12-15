@@ -55,25 +55,25 @@ const CONFIG = {
 			id: '1',
 			name: 'Manim',
 			icon: 'code',
-			link: 'https://github.com/',
+			link: 'https://docs.manim.community/en/stable/tutorials/quickstart.html',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Snapdrop',
+			icon: 'share',
+			link: 'https://snapdrop.net',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Zelda',
+			icon: 'swords',
+			link: 'https://www.zeldadungeon.net',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Theorem',
+			icon: 'infinity',
+			link: 'https://www.theoremoftheday.org',
 		},
 		{
 			id: '5',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://www.youtube.com',
 		},
 	],
 
@@ -135,12 +135,12 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'file-check-2',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'LaTex',
+					link: 'https://www.overleaf.com/learn',
 				},
 				{
 					name: 'Classic',
